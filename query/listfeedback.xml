@@ -31,9 +31,6 @@
        <![CDATA['&nbsp;<a href="../EasyTechFunc/ReplyFeedBack.aspx?feedbackid='+cast( dfg_feedback.id as varchar)+'" target="_blank" style="color: #0055BA;cursor: pointer;">回复</a>
 		']]>  
       </column>
-	  
-	  
-	  
 	  <!--
       <column name="dfg_feedback" title="方案描述" type="textarea" width="99%">
         <validates>
