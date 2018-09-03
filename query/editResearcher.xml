@@ -18,8 +18,8 @@
           </validate>
         </validates>	  
       </column>
-      <column name="ID" title="研究者ID"  width="150px" maxlength="20">
-      </column>
+      <!-- <column name="ID" title="研究者ID"  width="150px" maxlength="20"> -->
+      <!-- </column> -->
 
       <column name="Department" title="单位部门" cssclass="input_text" width="99%" maxlength="50" colspan="3">	  
       </column>
